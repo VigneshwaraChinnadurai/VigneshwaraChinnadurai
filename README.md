@@ -2,7 +2,7 @@
 <h3 align="center">Currently learning"Attentions", because it's all we need
 </h3>
 
-- 🔭 I’m currently Working on [LaTr (Layout Aware Transformer for VQA)](https://github.com/uakarsh/latr)
+- 🔭 I’m currently Working on [Implementation of DocFormer](https://arxiv.org/abs/2106.11539)
 
 - 🌱 I’m currently exploring [Quantum Computing](https://github.com/VigneshwaraChinnadurai/Quantum_Computing)
 
