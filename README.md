@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vigneshwara</h1>
 <h3 align="center">Currently learning"Attentions", because it's all we need
 </h3>
+- 🔭Working on [Document Image Transformer (DiT) using Detectron2](https://arxiv.org/abs/2203.02378)
 
-- 🔭 I’m currently Working on [Implementation of DocFormer](https://arxiv.org/abs/2106.11539)
+- 🙇 Currently Studying about [Implementation of DocFormer](https://arxiv.org/abs/2106.11539)
 
-- 🌱 I’m currently exploring [Quantum Computing](https://github.com/VigneshwaraChinnadurai/Quantum_Computing)
+- 🌱 And exploring [Quantum Computing](https://github.com/VigneshwaraChinnadurai/Quantum_Computing)
 
 - 👨‍💻 All of my projects are available at [this link](https://github.com/VigneshwaraChinnadurai)
 
