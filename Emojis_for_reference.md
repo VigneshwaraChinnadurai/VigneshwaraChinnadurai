@@ -1,4 +1,4 @@
-Credits to [Mr. Rafael](https://gist.github.com/rxaviers){:target="_blank"}
+Credits to [Mr. Rafael](https://gist.github.com/rxaviers)
 
 
 
