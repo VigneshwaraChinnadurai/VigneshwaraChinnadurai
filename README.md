@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vigneshwara</h1>
 <h3 align="center">Currently learning"Attentions", because it's all we need
 </h3>
-- 🔭Working on [Document Image Transformer (DiT) using Detectron2](https://arxiv.org/abs/2203.02378)
+
+- 🔭 Working on [Document Image Transformer (DiT) using Detectron2](https://arxiv.org/abs/2203.02378)
 
 - 🙇 Currently Studying about [Implementation of DocFormer](https://arxiv.org/abs/2106.11539)
 
