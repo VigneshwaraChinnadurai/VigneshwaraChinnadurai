@@ -20,3 +20,5 @@
 <a href="https://www.kaggle.com/vigneshwarac" target="blank"><img align="center" src="https://github.com/VigneshwaraChinnadurai/Icons_and_Images/blob/main/Kaggle_icon.png" alt="VigneshwaraChinnadurai" height="30" width="40" /></a>
 <a href="https://medium.com/@rockingstarvic"><img align="center" src="https://github.com/VigneshwaraChinnadurai/Icons_and_Images/blob/main/Medium_icon.png" alt="VigneshwaraChinnadurai" height="30" width="40" /></a>
 </p>
+
+![Vignesh stats](https://github-readme-stats.vercel.app/api?username=VigneshwaraChinnadurai&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&show_icons=true&theme=transparent)
