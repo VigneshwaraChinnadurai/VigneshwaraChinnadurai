@@ -16,6 +16,8 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
+<hr>
+
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/vigneshwara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
@@ -37,11 +39,21 @@ Like My Work?
 
 ### Languages and Tools:
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+- Python
+- PySpark
+- Tableau
+- AWS
+- GCP
+- GitHub
+
+### Skills: 
+
+- Machine Learning
+- Deep Learning
+- Computer Vison
+- Forecasting
+- Gen AI
+- NLP
 
 ### Projects and Dev Stuffs:
 
