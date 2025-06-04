@@ -2,6 +2,8 @@
 <h3 align="center">Currently learning"Attentions", because it's all we need
 </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VigneshwaraChinnadurai&label=Profile%20views&color=0e75b6&style=flat&color=blue&base=50000" alt="madhankb" /> </p>
+
 - 🔭 Worked on [Document Image Transformer (DiT) using Detectron2](https://arxiv.org/abs/2203.02378)
 
 - 🙇 Passionate about [Computer Vision](https://arxiv.org/abs/2106.11539)
