@@ -61,23 +61,15 @@ Like My Work?
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VigneshwaraChinnadurai&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshwaraChinnadurai&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=VigneshwaraChinnadurai&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&show_icons=true&theme=github_dark" />
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshwaraChinnadurai&theme=github_dark&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=donut&langs_count=8"/>
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VigneshwaraChinnadurai&hide_border=true" />
-</details>
-
-<details>
-  <br />
-  <summary><b>⚙️ Other Git info</b></summary>
-  	<ul>
-       <img height="300em" src="https://github-readme-stats.vercel.app/api?username=VigneshwaraChinnadurai&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&show_icons=true&theme=transparent" />
-	</ul>
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=VigneshwaraChinnadurai&hide_border=truegithub_dark&theme=github_dark" />
 </details>
 
 #
